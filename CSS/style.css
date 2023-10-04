@@ -65,14 +65,14 @@ section div .droite{
     transition: 1s;
 }
 section div:hover .haut{
-    transform: translate(0, -180px);
+    transform: translate(0, -90%);
 }
 section div:hover .bas{
-    transform: translate(0, 180px);
+    transform: translate(0, 90%);
 }
 section div:hover .gauche{
-    transform: translate(-180px, 0);
+    transform: translate(-90%, 0);
 }
 section div:hover .droite{
-    transform: translate(180px, 0);
+    transform: translate(90%, 0);
 }
