@@ -17,9 +17,8 @@ body{
     background: rgb(43, 133, 98);
 }
 section{
-    border: blue 1px solid;
-    width: 600px;
-    height: 600px;
+    width: 50%;
+    height: 50%;
     display: flex ; 
     flex-wrap: wrap;
 }
